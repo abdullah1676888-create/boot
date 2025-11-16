@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "homee-PD6d.aternos.me",
+    "ip": "stickleback.aternos.host:41830",
     "port": 41830,
     "version": "1.19.3"
   },
